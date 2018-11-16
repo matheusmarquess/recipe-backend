@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\bin\Debug\netcoreapp2.1\WebApplication1.Dtos.deps.json
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\bin\Debug\netcoreapp2.1\WebApplication1.Dtos.runtimeconfig.json
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\bin\Debug\netcoreapp2.1\WebApplication1.Dtos.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\bin\Debug\netcoreapp2.1\WebApplication1.Dtos.dll
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\bin\Debug\netcoreapp2.1\WebApplication1.Dtos.pdb
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.AssemblyInfo.cs
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.dll
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.pdb
+C:\Users\Dell\source\repos\WebApplication3\WebApplication1.Dtos\obj\Debug\netcoreapp2.1\WebApplication1.Dtos.csprojAssemblyReference.cache
